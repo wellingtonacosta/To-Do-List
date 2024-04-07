@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1046764_to_do.admin" name="x_1046764_to_do.admin">96e983db93d5c2108b1d7fddfaba1004</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-07 00:48:35</sys_created_on>
+        <sys_id>d6e983db93d5c2108b1d7fddfaba1007</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>96e983db93d5c2108b1d7fddfaba1004</sys_name>
+        <sys_package display_value="To Do" source="x_1046764_to_do">8ae943db93d5c2108b1d7fddfaba10c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">8ae943db93d5c2108b1d7fddfaba10c9</sys_scope>
+        <sys_update_name>sys_embedded_help_role_d6e983db93d5c2108b1d7fddfaba1007</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-07 00:48:35</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
