@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Active To Dos Data Item</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition table="x_1046764_to_do_to_do">progressINNot Started<item display_value="Not Started" endquery="false" field="progress" goto="false" newquery="false" operator="IN" or="false" value="Not Started"/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-09 00:09:36</sys_created_on>
+        <sys_id>1bd3f7ad938a02108b1d7fddfaba100d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Active To Dos Data Item</sys_name>
+        <sys_package display_value="To Do" source="x_1046764_to_do">8ae943db93d5c2108b1d7fddfaba10c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">8ae943db93d5c2108b1d7fddfaba10c9</sys_scope>
+        <sys_update_name>sys_sg_data_item_1bd3f7ad938a02108b1d7fddfaba100d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-09 00:09:36</sys_updated_on>
+        <table>x_1046764_to_do_to_do</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=1bd3f7ad938a02108b1d7fddfaba100d"/>
+</record_update>

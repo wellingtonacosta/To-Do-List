@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <available_offline>true</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>To Do</name>
+        <required_roles>x_1046764_to_do.admin,x_1046764_to_do.user</required_roles>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-09 00:09:36</sys_created_on>
+        <sys_id>d7d3b7ad938a02108b1d7fddfaba10fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do</sys_name>
+        <sys_package display_value="To Do" source="x_1046764_to_do">8ae943db93d5c2108b1d7fddfaba10c9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">8ae943db93d5c2108b1d7fddfaba10c9</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_d7d3b7ad938a02108b1d7fddfaba10fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-09 00:09:36</sys_updated_on>
+        <title>To Do</title>
+    </sys_sg_applet_launcher>
+</record_update>
